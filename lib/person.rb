@@ -7,3 +7,5 @@ class Person
     @name
   end
 end
+
+puts name 
